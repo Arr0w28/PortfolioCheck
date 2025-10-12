@@ -1,11 +1,83 @@
 {
-  "personal_info": {},
+  "personal_info": {
+    "email": "mohanlive28@gmail.com",
+    "phone": "+91 7349413300",
+    "linkedin": "linkedin.com/in/mohan-ram-s"
+  },
   "summary": "",
   "experience": [],
-  "education": [],
-  "skills": [],
-  "projects": [],
-  "certifications": [],
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science Engineering; CGPA: 8.45/10.0 Sep 2022 – July 2026",
+      "institution": "•Vellore Institute of Technology Chennai Chennai, Tamil Nadu",
+      "year": "2022",
+      "gpa": "8.45"
+    }
+  ],
+  "skills": [
+    "Programming Languages: C",
+    "C++",
+    "Python",
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "SQL",
+    "Frameworks and Libraries: React",
+    ".NET MAUI",
+    "NetworkX",
+    "Streamlit",
+    "Tools and Technologies: Visual Studio Code",
+    "Microsoft Azure",
+    "Azure OpenAI",
+    "MongoDB",
+    "ArangoDB",
+    "Git",
+    "GitHub",
+    "AI/ML Technologies: Machine Learning",
+    "Retrieval-Augmented Generation (RAG)",
+    "Graph RAG",
+    "Vector Search",
+    "Natural",
+    "Language Processing",
+    "Cybersecurity Concepts: CIA Triad",
+    "Vulnerability Assessment",
+    "Incident Management",
+    "Access Control",
+    "IAM PAM",
+    "SIEM",
+    "(e.g.",
+    "Splunk)",
+    "SOC Operations",
+    "NIST",
+    "Operating Systems: Windows 10/11",
+    "Ubuntu/Linux (Basic Shell Scripting",
+    "File System",
+    "Permissions)"
+  ],
+  "projects": [
+    {
+      "name": "ArangoDB and NetworkX for efficient code exploration",
+      "description": []
+    },
+    {
+      "name": "search across repositories using MistralAI language model",
+      "description": []
+    }
+  ],
+  "certifications": [
+    "Microsoft Azure AI Fundamentals: Certified in foundational knowledge of Machine Learning and Artificial Intelligence",
+    "concepts and related Microsoft Azure services (Credly Badge)",
+    "Google Cybersecurity Professional Certificate (In Progress): A Program by Google covering key cybersecurity skills.",
+    "Foundations of Cybersecurity (View Certificate) Play It Safe: Manage Security Risks (View Certificate) Connect and",
+    "Protect: Networks and Network Security (View Certificate) Tools of the Trade: SQL and Linux (View Certificate)",
+    "Assets, Threats and Vulnerabilities (View Certificate)",
+    "ADDITIONAL INFORMATION",
+    "Soft Skills: Event Management, Time Management, Team Leadership, Communication, Adaptability, Problem Solving",
+    "Sports Achievements: First place in Inter-School Kabaddi Championship, First place in District Chess Competition (2",
+    "consecutive years)"
+  ],
   "languages": [],
-  "last_updated": "2025-10-12T07:46:35.137Z"
+  "last_updated": "2025-10-12T07:46:37.270Z"
 }
