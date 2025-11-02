@@ -1,110 +1,11 @@
 {
-  "personal_info": {
-    "name": "Mohan Ram S",
-    "email": "mohanlive28@gmail.com",
-    "phone": "+917349413300",
-    "linkedin": "linkedin.com/in/mohan-ram-s",
-    "location": "Python,Java"
-  },
+  "personal_info": {},
   "summary": "",
   "experience": [],
   "education": [],
-  "skills": {},
-  "projects": [
-    {
-      "name": "Scopium",
-      "description": [
-        "– Developed multi-chat application integrated with GitHub repository search built on Graph RAG architecture using",
-        "ArangoDBandNetworkXforefficientcodeexploration",
-        "– Implemented system that chunks codebase into nodes and establishes relationships as edges, enabling semantic",
-        "searchacrossrepositoriesusingMistralAIlanguagemodel",
-        "– Designed responsive frontend using React TypeScript with Tailwind CSS and shadcn/ui components for enhanced"
-      ],
-      "technologies": [],
-      "link": ""
-    },
-    {
-      "name": "InspireIt",
-      "description": [
-        "– DevelopedAI-drivenresearchsystemusingGoogleCloudVertexAIandRAGarchitecturetogeneratecross-domain",
-        "researchideaswithinnovationpotentialscoring",
-        "– Leveraged cloud-based Natural Language Processing and RAG architecture to generate, refine, and enhance aca-",
-        "demicresearchideaswithgapanalysis",
-        "– DesignedintuitiveuserinterfaceusingReactTypeScriptwithTailwindCSSandLucideReacticons"
-      ],
-      "technologies": [],
-      "link": ""
-    },
-    {
-      "name": "Vindhler",
-      "description": [
-        "– Developed end-to-end solution for real-time CCTV feed monitoring with image quality enhancement and vandalism",
-        "detectioncapabilities",
-        "– Implemented advanced image processing techniques and integrated robust detection algorithms for automated se-",
-        "curityteamnotifications",
-        "– Created user interface using Streamlit and optimized performance by integrating oneDNN from oneAPI toolkit for",
-        "enhancedprocessingspeed"
-      ],
-      "technologies": [],
-      "link": ""
-    }
-  ],
-  "certifications": [
-    {
-      "name": "Microsoft Azure AI Fundamentals",
-      "issuer": "",
-      "date": "",
-      "credential": ""
-    },
-    {
-      "name": "conceptsandrelatedMicrosoftAzureservices(CredlyBadge)",
-      "issuer": "",
-      "date": "",
-      "credential": "Available"
-    },
-    {
-      "name": "GoogleCybersecurityProfessionalCertificate(InProgress)",
-      "issuer": "",
-      "date": "",
-      "credential": "Available"
-    },
-    {
-      "name": "FoundationsofCybersecurity(ViewCertificate)PlayItSafe",
-      "issuer": "",
-      "date": "",
-      "credential": "Available"
-    },
-    {
-      "name": "Protect",
-      "issuer": "",
-      "date": "",
-      "credential": "Available"
-    },
-    {
-      "name": "Assets,ThreatsandVulnerabilities(ViewCertificate)",
-      "issuer": "",
-      "date": "",
-      "credential": "Available"
-    },
-    {
-      "name": "SoftSkills",
-      "issuer": "",
-      "date": "",
-      "credential": ""
-    },
-    {
-      "name": "Sports Achievements",
-      "issuer": "",
-      "date": "",
-      "credential": ""
-    },
-    {
-      "name": "consecutiveyears)",
-      "issuer": "",
-      "date": "",
-      "credential": ""
-    }
-  ],
+  "skills": [],
+  "projects": [],
+  "certifications": [],
   "languages": [],
-  "last_updated": "2025-10-12T07:59:58.552Z"
+  "last_updated": "2025-11-02T06:24:42.322Z"
 }
