@@ -1,11 +1,107 @@
 {
-  "personal_info": {},
+  "personal_info": {
+    "name": "Mohan Ram S",
+    "email": "mohanlive28@gmail.com",
+    "phone": "+917349413300",
+    "linkedin": "linkedin.com/in/mohan-ram-s",
+    "location": "Python,Java"
+  },
   "summary": "",
   "experience": [],
   "education": [],
-  "skills": [],
-  "projects": [],
-  "certifications": [],
+  "skills": {
+    "ProgrammingLanguages": [
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "SQL"
+    ],
+    "FrameworksandLibraries": [
+      "React",
+      ".NETMAUI",
+      "NetworkX",
+      "Streamlit"
+    ],
+    "ToolsandTechnologies": [
+      "Azure",
+      "AzureOpenAI",
+      "MongoDB",
+      "ArangoDB",
+      "Git",
+      "GitHub"
+    ],
+    "AI/MLTechnologies": [
+      "MachineLearning",
+      "RAG",
+      "GraphRAG",
+      "VectorSearch",
+      "NLP"
+    ],
+    "CoreComputerScience": [
+      "DSA",
+      "OOP",
+      "OS",
+      "ComputerNetworks",
+      "DBMS"
+    ],
+    "SoftSkills": [
+      "EventManagement",
+      "TeamLeadership",
+      "Communication",
+      "Adaptability"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Scopium",
+      "description": [
+        "– EnabledsemanticcodesearchwithGraphRAG(ArangoDB+NetworkX),improvingdeveloperproductivity",
+        "– CreatedresponsiveReactTypeScriptfrontendwithTailwindCSScomponents",
+        "– Ensuredmaintainabilitybywritingmodular,testablecomponentsfollowingbestpractices",
+        "– Operated in an Agile Scrum framework, drafting PRDs and high-level system designs as part of an early-stage"
+      ],
+      "technologies": [],
+      "link": ""
+    },
+    {
+      "name": "InspireIt",
+      "description": [
+        "– DevelopedAI-drivensystemonGoogleVertexAIforresearchideageneration",
+        "– DesignedReactTypeScriptfrontendwithTailwindCSSandLucideicons",
+        "– Generated20+cross-domainresearchideas,witharelevanceaccuracyofaround75%"
+      ],
+      "technologies": [],
+      "link": ""
+    },
+    {
+      "name": "Vindhler",
+      "description": [
+        "– Builtreal-timeCCTVfeedmonitoringwithvandalismdetectionandnotifications",
+        "– OptimizedprocessingspeedusingoneDNNandintegratedStreamlitUI",
+        "– Achievedvandalismdetectionaccuracyofabout85%andreducedalertlatencyto 2seconds"
+      ],
+      "technologies": [],
+      "link": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "MicrosoftAzureAIFundamentals(CredlyBadge)",
+      "issuer": "",
+      "date": "",
+      "credential": "Available"
+    },
+    {
+      "name": "GoogleCybersecurityProfessionalCertificate(Certificate)",
+      "issuer": "",
+      "date": "",
+      "credential": "Available"
+    }
+  ],
   "languages": [],
-  "last_updated": "2025-11-02T06:24:42.322Z"
+  "last_updated": "2025-11-02T06:24:44.475Z"
 }
